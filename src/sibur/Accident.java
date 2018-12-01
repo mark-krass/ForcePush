@@ -1,3 +1,5 @@
+package sibur;
+
 public class Accident {
 
     String name;
